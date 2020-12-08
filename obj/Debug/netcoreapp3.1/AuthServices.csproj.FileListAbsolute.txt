@@ -32,3 +32,4 @@ C:\Users\alish\source\repos\truYum-Movies\AuthServices\obj\Debug\netcoreapp3.1\A
 C:\Users\alish\source\repos\truYum-Movies\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.pdb
 C:\Users\alish\source\repos\truYum-Movies\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.genruntimeconfig.cache
 C:\Users\alish\source\repos\truYum-Movies\AuthServices\obj\Debug\netcoreapp3.1\AuthServices.csprojAssemblyReference.cache
+C:\Users\alish\source\repos\truYum-Movies\AuthServices\bin\Debug\netcoreapp3.1\AuthServices.yaml
